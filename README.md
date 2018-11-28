@@ -47,3 +47,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - musicismyalibi(☭ ͜ʖ ☭)
 - Daan van Dongen
 - Sander Krijt (Hackerman)
+- Siem van den Tweel
